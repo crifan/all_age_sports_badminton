@@ -1,0 +1,131 @@
+{
+  "description": "总结作为老少皆宜的羽毛球的方方面面的信息，包括但不限于如何入门羽毛球，了解羽毛球的基本比赛规则，更要注重安全的打球，如何避免受伤，如何在线看实时直播的羽毛球比赛，学习和使用各种专业羽毛球设备，如何治疗和缓解各种长期打球所带来的伤痛，总结苏州的各个羽毛球场地情况等内容。", 
+  "links": {
+    "sidebar": {
+      "主页": "http://www.crifan.com"
+    }
+  }, 
+  "author": "Crifan Li <admin@crifan.com>", 
+  "title": "老少皆宜的运动：羽毛球", 
+  "gitbook": "3.2.3", 
+  "language": "zh-hans", 
+  "plugins": [
+    "theme-comscore", 
+    "anchors", 
+    "-lunr", 
+    "-search", 
+    "search-plus", 
+    "disqus", 
+    "-highlight", 
+    "prism", 
+    "prism-themes", 
+    "github-buttons", 
+    "splitter", 
+    "-sharing", 
+    "sharing-plus", 
+    "tbfed-pagefooter", 
+    "expandable-chapters-small", 
+    "ga", 
+    "donate", 
+    "sitemap-general", 
+    "copy-code-button", 
+    "callouts", 
+    "toolbar-button"
+  ], 
+  "pluginsConfig": {
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/all_age_sports_badminton/pdf/all_age_sports_badminton.pdf", 
+      "icon": "fa-file-pdf-o", 
+      "label": "下载PDF"
+    }, 
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/all_age_sports_badminton/website/"
+    }, 
+    "sharing": {
+      "qq": true, 
+      "douban": false, 
+      "all": [
+        "douban", 
+        "facebook", 
+        "google", 
+        "instapaper", 
+        "line", 
+        "linkedin", 
+        "messenger", 
+        "pocket", 
+        "qq", 
+        "qzone", 
+        "stumbleupon", 
+        "twitter", 
+        "viber", 
+        "vk", 
+        "weibo", 
+        "whatsapp"
+      ], 
+      "google": false, 
+      "stumbleupon": false, 
+      "hatenaBookmark": false, 
+      "twitter": true, 
+      "vk": false, 
+      "linkedin": false, 
+      "instapaper": false, 
+      "pocket": false, 
+      "weibo": true, 
+      "viber": false, 
+      "facebook": true, 
+      "qzone": false, 
+      "messenger": false, 
+      "line": false, 
+      "whatsapp": false
+    }, 
+    "tbfed-pagefooter": {
+      "modify_format": "YYYY-MM-DD HH:mm:ss", 
+      "modify_label": "该文件修订时间：", 
+      "copyright": "crifan.com，使用<a href='https://creativecommons.org/licenses/by-sa/4.0/deed.zh'>知识署名-相同方式共享4.0协议</a>发布"
+    }, 
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "all_age_sports_badminton", 
+          "count": true, 
+          "type": "star", 
+          "user": "crifan", 
+          "size": "small"
+        }, 
+        {
+          "count": false, 
+          "width": "120", 
+          "type": "follow", 
+          "user": "crifan", 
+          "size": "small"
+        }
+      ]
+    }, 
+    "disqus": {
+      "shortName": "crifan"
+    }, 
+    "prism": {
+      "css": [
+        "prism-themes/themes/prism-atom-dark.css"
+      ]
+    }, 
+    "ga": {
+      "token": "UA-28297199-1"
+    }, 
+    "theme-default": {
+      "showLevel": true
+    }, 
+    "donate": {
+      "alipay": "https://www.crifan.com/files/res/crifan_com/crifan_alipay_pay.jpg", 
+      "title": "", 
+      "alipayText": "支付宝打赏给Crifan", 
+      "button": "打赏", 
+      "wechatText": "微信打赏给Crifan", 
+      "wechat": "https://www.crifan.com/files/res/crifan_com/crifan_wechat_pay.jpg"
+    }, 
+    "callouts": {
+      "showTypeInHeader": false
+    }
+  }, 
+  "root": "./src"
+}

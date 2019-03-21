@@ -1,0 +1,19 @@
+{
+  "title": "老少皆宜的运动：羽毛球",
+  "description": "总结作为老少皆宜的羽毛球的方方面面的信息，包括但不限于如何入门羽毛球，了解羽毛球的基本比赛规则，更要注重安全的打球，如何避免受伤，如何在线看实时直播的羽毛球比赛，学习和使用各种专业羽毛球设备，如何治疗和缓解各种长期打球所带来的伤痛，总结苏州的各个羽毛球场地情况等内容。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "all_age_sports_badminton"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/all_age_sports_badminton/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/all_age_sports_badminton/pdf/all_age_sports_badminton.pdf"
+    }
+  }
+}
