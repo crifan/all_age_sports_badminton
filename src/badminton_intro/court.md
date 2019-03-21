@@ -22,7 +22,11 @@
 
 ## 比赛场地
 
+`羽毛球的球场`=`场地`=`场馆`=`羽毛球馆`=`羽毛球球馆`
+
 ### 场地尺寸
+
+[【整理】羽毛球场地知识：场地尺寸，PVC运动地板（塑胶地板）的尺寸和价格 – 在路上](https://www.crifan.com/badminton_court_related_knowledge_size_and_price/)
 
 ### 场地组成
 
@@ -37,5 +41,3 @@
 ##### 球网
 
 ### 场地成本
-
-[【整理】羽毛球场地知识：场地尺寸，PVC运动地板（塑胶地板）的尺寸和价格 – 在路上](https://www.crifan.com/badminton_court_related_knowledge_size_and_price/)
