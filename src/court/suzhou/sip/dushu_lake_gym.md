@@ -7,3 +7,7 @@
 [【独墅湖体育馆羽毛球馆】电话,地址,价格,营业时间(图) - 苏州运动健身 - 大众点评网](http://www.dianping.com/shop/57142502)
 
 [苏州独墅湖科教公司体育发展中心](http://sports.215123.cn)
+
+现在预定场地都支持直接通过微信（公众号）定了：
+
+![微信预定独墅湖体育馆羽毛球场地](../../../assets/img/dushu_lake_order_court_by_weixin.png)
