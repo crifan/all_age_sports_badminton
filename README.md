@@ -1,11 +1,7 @@
 # 老少皆宜的运动：羽毛球
 
-* 最新版本：`v0.9`
-* 更新时间：`20190529`
-
-## 鸣谢
-
-感谢我的老婆**陈雪雪**的包容理解和悉心照料，才使得我`crifan`有更多精力去专注技术专研和整理归纳出这些电子书和技术教程，特此鸣谢。
+* 最新版本：`v1.0`
+* 更新时间：`20210803`
 
 ## 简介
 
@@ -25,15 +21,25 @@
 
 ### 在线浏览
 
-* [老少皆宜的运动：羽毛球 book.crifan.com](http://book.crifan.com/books/all_age_sports_badminton/website)
+* [老少皆宜的运动：羽毛球 book.crifan.com](https://book.crifan.com/books/all_age_sports_badminton/website)
 * [老少皆宜的运动：羽毛球 crifan.github.io](https://crifan.github.io/all_age_sports_badminton/website)
 
 ### 离线下载阅读
 
-* [老少皆宜的运动：羽毛球 PDF](http://book.crifan.com/books/all_age_sports_badminton/pdf/all_age_sports_badminton.pdf)
-* [老少皆宜的运动：羽毛球 ePub](http://book.crifan.com/books/all_age_sports_badminton/epub/all_age_sports_badminton.epub)
-* [老少皆宜的运动：羽毛球 Mobi](http://book.crifan.com/books/all_age_sports_badminton/mobi/all_age_sports_badminton.mobi)
+* [老少皆宜的运动：羽毛球 PDF](https://book.crifan.com/books/all_age_sports_badminton/pdf/all_age_sports_badminton.pdf)
+* [老少皆宜的运动：羽毛球 ePub](https://book.crifan.com/books/all_age_sports_badminton/epub/all_age_sports_badminton.epub)
+* [老少皆宜的运动：羽毛球 Mobi](https://book.crifan.com/books/all_age_sports_badminton/mobi/all_age_sports_badminton.mobi)
 
 ## 版权说明
 
 此电子书教程的全部内容，如无特别说明，均为本人原创和整理。其中部分内容参考自网络，均已备注了出处。如有发现侵犯您版权，请通过邮箱联系我 `admin 艾特 crifan.com`，我会尽快删除。谢谢合作。
+
+## 鸣谢
+
+感谢我的老婆**陈雪**的包容理解和悉心照料，才使得我`crifan`有更多精力去专注技术专研和整理归纳出这些电子书和技术教程，特此鸣谢。
+
+## 更多其他电子书
+
+本人`crifan`还写了其他`100+`本电子书教程，感兴趣可移步至：
+
+[crifan/crifan_ebook_readme: Crifan的电子书的使用说明](https://github.com/crifan/crifan_ebook_readme)
